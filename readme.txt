@@ -1,8 +1,11 @@
 ;;;;;;;;;;;;;importar o site wordpress;;;;;;;
 1. instalar xampp
 2. criar banco de dados, latin2_general_ci
-3. instalar wordpress
-4.instalar all in one migration
+usuário padrão: root; senha:*vazio*
+3.fazer as configurações para envio de email
+4. mover o installer.php e o scardosolp para o projeto em htdos no xampp
+5.acessar: localhost/nomedo projeto/installer.php
+6.seguir a instalação, colocar o nome do banco de dados, usuário e senha criados anteriormente
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;envio de email;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;configuração xampp;;;;;;;;;;;;;;;;;;
 ;;arquivo php.ini, na mail function;;;;;;;;;;
