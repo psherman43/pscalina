@@ -1,13 +1,13 @@
 ;;;;;;;;;;;;;importar o site wordpress;;;;;;;
 1. instalar xampp
 2. criar banco de dados, latin2_general_ci
-usu·rio padr„o: root; senha:*vazio*
-3.fazer as configuraÁıes para envio de email
+usu√°rio padr√£o: root; senha:*vazio*
+3.fazer as configura√ß√µes para envio de email
 4. mover o installer.php e o scardosolp para o projeto em htdos no xampp
-5.acessar: localhost/nomedo projeto/installer.php
-6.seguir a instalaÁ„o, colocar o nome do banco de dados, usu·rio e senha criados anteriormente
+5.acessar: localhost/nome-do-projeto/installer.php
+6.seguir a instala√ß√£o, colocar o nome do banco de dados, usu√°rio e senha criados anteriormente
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;envio de email;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;configuraÁ„o xampp;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;configura√ß√£o xampp;;;;;;;;;;;;;;;;;;
 ;;arquivo php.ini, na mail function;;;;;;;;;;
 
 [mail function]
